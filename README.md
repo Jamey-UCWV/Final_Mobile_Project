@@ -1,22 +1,39 @@
-####Project Proposal####
+####Project Proposal Final Draft####
 
-I recently picked up the sport of Disc Golf. Where it has very similar rules to golf but
-instead of clubs and balls, you throw discs and try to land them in metal baskets scattered
-throughout the course. I have been playing for about 8 months now and I’ve noticed how in depth
-this sport is. Firstly, it is still a relatively new sport, but it’s on the rise. I had the initial
-idea of designing an app for tracking score similar to golf apps, but I also had a couple more ideas
-for it. One being a feature that shows you what disc is best for what type of hole.
+The Problem:
+I recently picked up the sport of disc golf, which is golf but instead of clubs and golf balls it
+is discs and chained baskets. You are basically throwing different types of frisbees hundreds of
+feet almost following the same rules of actual golf, but it is a bit more complicated then that.
+There are 3 types of discs: drivers, mid-ranges, and putters, and each of these discs have 4 types
+of variables on how they fly. Those being speed, turn, glide, and fade. With all that information it
+can be really difficult for a new player to understand how these discs work.
 
-There are 3 main types of discs, those being a driver, midrange, and a putter, and each of those
-discs have 4 numbers that vary to represent speed, glide, turn, and fade. In a nutshell it is much
-more then throwing a frisbee and seeing what sticks, there is tactic on what disc to use for the
-right occasion. For example, I have a driver called the Leopard, I use it for extremely
-long drives because it has a really low turn value, meaning when I throw it a certain way it goes
-a lot farther due to it needs to turn over before it fades off. The same can be said with each
-disc, they are all unique. The feature would allow the user to input the values each of their
-discs have and maps out the predicted flight pattern of that said disc. So when you step up to
-a tee-box you know exactly what to throw and how to throw it.
+A Solution:
+An app that's a hybrid of a scorecard app and an app that you can input each number on your disc and
+it will draw out the flight pattern of that certain disc. Basically letting new players learn how their
+discs will fly and allowing them to maximize each discs' potential for any situation.
 
-I really think it would be fun to make a scorecard app, but I also want to
-incorporate the feature of showing what disc to use because I feel that has not been done as much
-as a scorecard app.
+Deliverables:
+-The app will have a feature to track score up to 18 holes.
+-The app will have a feature to input all the discs flying variables and map out the flight pattern
+of that said disc.
+-The app will contain a light tutorial session about discs, the types of discs, and each number on
+disc to help the user understand more about disc golf.
+
+User Stories:
+
+-Billy is new to the sport of disc golf and his dad bought him a starter set. Upon opening is starter
+set he notices each disc feels different and there are 4 numbers on each of the discs and they are
+almost all different in each category. Billy downloads the app and inputs each number from his discs
+and realizes those numbers show how each of his discs will fly. Billy is now very happy he has a base
+understanding of each of his discs and is eager to play!
+
+-John has been playing disc golf for almost a year now and is tired of tracking his score using
+pencil and paper, so he downloads the disc golf app to allow himself to track his score from the
+comfort of his phone.
+
+
+
+
+
+
