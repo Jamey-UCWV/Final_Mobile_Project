@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         private val homeFragment = HomeFragment()
         private val flightFragment = FlightFragment()
         private val scorecardFragment = ScorecardFragment()
-        private val bottom_navigation=findViewById<BottomNavigationView>(R.id.bottom_navigation)
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
 
@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         replaceFragment(homeFragment)
 
+         val bottom_navigation = findViewById<BottomNavigationView>(R.id.bottom_navigation)
         bottom_navigation.setOnItemSelectedListener{
             when (it.itemId) {
                 R.id.ic_home -> replaceFragment(homeFragment)
