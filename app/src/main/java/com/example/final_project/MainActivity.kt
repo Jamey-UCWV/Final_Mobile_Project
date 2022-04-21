@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         replaceFragment(homeFragment)
 
-        bottom_navigation.setOnNavigationItemSelectedListener {
+        bottom_navigation.setOnItemSelectedListener{
             when (it.itemId) {
                 R.id.ic_home -> replaceFragment(homeFragment)
                 R.id.ic_flight_path -> replaceFragment(flightFragment)
